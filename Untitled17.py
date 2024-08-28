@@ -5,7 +5,7 @@
     "colab": {
       "provenance": [],
       "gpuType": "T4",
-      "authorship_tag": "ABX9TyPmao0CXsimaAWyjS/Yq/y9",
+      "authorship_tag": "ABX9TyN1Mj+1BWMwWrl7heWWrYtr",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -140,34 +140,47 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "Y4M6f7TSnIv_",
-        "outputId": "54bff85e-4615-428a-e5e2-4ab04b214d03"
+        "outputId": "e7a940d1-511e-4b4e-d718-47efce368c3b"
       },
-      "execution_count": 7,
+      "execution_count": 8,
       "outputs": [
         {
           "output_type": "stream",
           "name": "stderr",
           "text": [
-            "2024-08-28 10:57:45.985 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-08-28 10:57:45.988 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-08-28 10:57:45.989 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-08-28 10:57:45.991 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-08-28 10:57:45.993 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-08-28 10:57:45.999 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-08-28 10:57:46.000 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-08-28 10:57:46.002 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-08-28 10:57:46.003 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-08-28 10:57:46.005 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
-            "2024-08-28 10:57:46.006 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n"
+            "2024-08-28 11:01:34.259 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
+            "2024-08-28 11:01:34.262 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
+            "2024-08-28 11:01:34.264 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
+            "2024-08-28 11:01:34.265 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
+            "2024-08-28 11:01:34.266 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
+            "2024-08-28 11:01:34.268 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
+            "2024-08-28 11:01:34.269 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
+            "2024-08-28 11:01:34.270 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
+            "2024-08-28 11:01:34.271 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
+            "2024-08-28 11:01:34.272 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n",
+            "2024-08-28 11:01:34.273 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.\n"
           ]
         }
       ]
     },
     {
       "cell_type": "code",
-      "source": [],
+      "source": [
+        "config = {\n",
+        "    \"include_colab_link\": True\n",
+        "}\n"
+      ],
       "metadata": {
         "id": "vtwgpxgim7_K"
+      },
+      "execution_count": 9,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "CR9QrFfypez4"
       },
       "execution_count": null,
       "outputs": []
